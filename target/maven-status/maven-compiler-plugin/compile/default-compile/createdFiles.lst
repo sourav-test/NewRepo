@@ -1,0 +1,11 @@
+framework\picocontainerdependency\TestContext.class
+framework\controllers\FileReaderController.class
+framework\controllers\WebDriverController.class
+framework\dataprovider\PropertiesReader.class
+pagefactory\accountcreation\Accountcreation.class
+framework\webelementutility\WebElementUtil.class
+pagefactory\accountrelated\Accountrelated.class
+pagefactory\authentication\Registration.class
+framework\dataprovider\ExcelReader.class
+framework\controllers\PageFactoryController.class
+pagefactory\commonobjects\Common.class

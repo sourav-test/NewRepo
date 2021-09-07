@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "DCOM Automation" thread-count="1" parallel="tests">
+
+<!--                    ************   Regression Test   **************             -->
+  
+
+    <test name = "Access Control And Share Contract">
+        <classes>
+            <class name = "runners.TestRunnerLocal" />
+        </classes>
+    </test>
+
+
+</suite>
